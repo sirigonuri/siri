@@ -10,7 +10,7 @@ public class Main {
 
 		System.out.println(impl.countUniqueKeys(null));
 
-		System.out.println(impl.searchCount(null, "software"));
+		System.out.println(impl.searchCount(null, "soft"));
 	}
 
 }
